@@ -11,15 +11,27 @@ nous ne supportons en aucun cas le cryptage de donné sensible et releguons tout
 
 
 clé autonome ____________ : OK      ###  
+
 matrice autonome ________ : non
+
 ordre des matrices ____ : non
+
 indice des caractères _ : non
+
 cube autonome ___________ : non
+
 melange XYZ ___________ : non
+
 melange caractères ____ : non
+
 cryptage/decryptage _____ : OK      ###
+
 bidouillage graphique ___ : non
+
 presentation du depart  : non
+
 relance _______________ : non
+
 couleurs ? ____________ : non
+
 interface reseau ________ : non
