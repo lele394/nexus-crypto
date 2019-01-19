@@ -9,6 +9,7 @@ nous ne supportons en aucun cas le cryptage de donné sensible et releguons tout
 
 ------------ RECAPITULATIF ------------
 
+
   clé autonome ____________ : OK      ###
   matrice autonome ________ : non
     ordre des matrices ____ : non
