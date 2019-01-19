@@ -6,6 +6,11 @@ ceci est un projet scolaire visant a etudié la cryptography, il a pour vocation
 
 nous ne supportons en aucun cas le cryptage de donné sensible et releguons toute responsabilité des actions a celui qui crypte les données
 
+librairie necessaire : 
+ - numpy
+ - random
+
+
 
 ------------ RECAPITULATIF ------------
 
