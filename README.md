@@ -1,3 +1,11 @@
+# nexus cryptocom tool
+
+le cryptocom tool est la version client serveur de nexus, elle permet l'envoi de paquet de donné chiffré.
+c'est aussi celle ou le developpement est le plus concentré
+
+
+
+
 # nexus-crypto
 
 nexus cryptography est un programme destiné a encodé du texte et codé en python.
