@@ -25,18 +25,18 @@ indice des caractères _ : non
 
 cube autonome ___________ : non
 
-melange XYZ ___________ : non
+melange XYZ ___________ : OK        ###
 
 melange caractères ____ : non
 
 cryptage/decryptage _____ : OK      ###
 
-bidouillage graphique ___ : non
+bidouillage graphique ___ : oui... (amelioration)
 
-presentation du depart  : non
+presentation du depart  : OK        ###
 
 relance _______________ : non
 
 couleurs ? ____________ : non
 
-interface reseau ________ : non
+interface reseau ________ : OK      ###
