@@ -17,7 +17,7 @@ nous ne supportons en aucun cas le cryptage de donné sensible et releguons tout
 librairie necessaire : 
  - numpy
  - random
-
+ - thread
 
 
 ------------ RECAPITULATIF ------------
