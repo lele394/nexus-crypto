@@ -1,0 +1,34 @@
+19-01-19
+	creation du systeme a partir de l'alpha 1
+	ui rajouté
+	
+	systeme online fonctionnel
+	
+	cryptage decryptage marche
+	
+	echange de donné complet avec aucune limite de caractere apparente, marche en local
+	
+	
+20-01-19
+	
+	ajout de keyPlus qui permet l'incrementation de la clé
+		deux modes :
+			incrementation fixe
+			incrementation suivant le nombre de caractere du message
+		
+	ajout d'un systeme de log des conversation permettant la recupération des message et des clé apres fermeture du programme
+	ajoute les conversations a la suite
+	ajout du melange des axes
+	
+23-01-19
+	
+	
+	ajout du tir en continu par thread
+			ajout de la balise,  le server ne print que les bons messages
+			
+26-01-19
+	modification du code, l'envoi parallele ne marche pas avec l'incrementation par longueur du message.
+	supression de l'incrementation par longueur du msg
+	sorti de la v5.1 contenant le correctif sur le probleme d'envoi dans par internet
+
+	
